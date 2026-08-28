@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🚀 About Me<br>I'm a Java Developer and CSE Student at Bangalore Institute of Technology, passionate about building scalable backend systems and exploring the cloud. I spend most of my time solving DSA problems and refining my skills in the Spring ecosystem.<br><br>🔭 I’m currently working on Spring Boot APIs and Cloud Integration.<br><br>☁️ Experimenting with AWS and LocalStack for local cloud development.<br><br>🏆 1800 Elo Chess Player – I apply the same strategic thinking to my code.<br><br>💪 When I'm not coding, you'll find me practicing Calisthenics or reading about personal growth.<br><br>📫 How to reach me: codewithsrujan.r@gmail.com
+🚀 About Me<br>I'm a Java Developer and CSE Student at Bangalore Institute of Technology, passionate about building scalable backend systems and exploring the cloud. I spend most of my time solving DSA problems and refining my skills in the Spring ecosystem.<br><br>🔭 I’m currently working on Spring Boot.<br>🏆 1800 Elo Chess Player – I apply the same strategic thinking to my code.<br><br>💪 When I'm not coding, you'll find me practicing Calisthenics or reading about personal growth.<br><br>📫 How to reach me: codewithsrujan.r@gmail.com
 
 
 ## 🌐 Socials:
